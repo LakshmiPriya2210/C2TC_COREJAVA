@@ -1,7 +1,7 @@
 package com.tns.ifet.finalkeyword;
 
-public class FinalMethod {
-	final void run(){
+public final class FinalMethod {
+	void run(){
 	System.out.println("running");
 	}
 }
